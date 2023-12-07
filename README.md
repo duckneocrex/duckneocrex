@@ -1,4 +1,11 @@
-I'm becoming a fan of Symfony. Twig templating is awesome. My first web application was written in ColdFusion.
+# About
+Old school programmer. I'm becoming a fan of Symfony. Twig templating is awesome. My first web application was written in ColdFusion.
+
+# Projects
+I'm working on some projects...
+
+Stay tuned...
+
 
 <!---
 - 👋 Hi, I’m @duckneocrex
